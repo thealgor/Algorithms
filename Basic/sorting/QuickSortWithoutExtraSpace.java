@@ -53,7 +53,7 @@ public class QuickSort{
     //refer prof.sedgewick's slides
     
     //dutch national flag problem ~ for lot of applications reduces the linearthmic time complexity to linear
-    //move equal values AAAAAAAA ~ O(n2), dont move equal values ~O(nlogn), dutch national flag ~ O(n) ~ Salute Edgar Dijkstra
+    //move equal values AAAAAAAA ~ O(n2), dont move equal values ~O(nlogn), dutch national flag ~ O(n) ~ Salute Edsger Dijkstra
  	public static int threeWayQuicksort(Comparable[] arr, int lo, int hi){
        if(hi<=lo)return;
        int lt = lo, gt=hi, i=lo;

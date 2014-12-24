@@ -45,7 +45,28 @@ public class QuickSort{
 		  else if(k>j)hi=j-1;
 		  else return arr[k];
 		}
-	}
+ 	}
+    
+    //Let v be partitioning item a[lo]. ・Scan i from left to right.
+    //– (a[i] < v): exchange a[lt] with a[i]; increment both lt and i – (a[i] > v): exchange a[gt] with a[i]; decrement gt
+    //– (a[i] == v): increment i
+    //refer prof.sedgewick's slides
+    
+    //dutch national flag problem ~ for lot of applications reduces the linearthmic time complexity to linear
+    //move equal values AAAAAAAA ~ O(n2), dont move equal values ~O(nlogn), dutch national flag ~ O(n) ~ Salute Edgar Dijkstra
+ 	public static int threeWayQuicksort(Comparable[] arr, int lo, int hi){
+       if(hi<=lo)return;
+       int lt = lo, gt=hi, i=lo;
+       Comparable v = arr[lo];
+       while(i<gt){
+         int cmp = arr[i].compareTo(v);
+         if(comp<0) swap(arr,lt++,i++);
+         else if(cmp<0) swap(arr,gt--,i);
+         else i++;
+       }
+       threeWayQuicksort(arr,lo,lt-1);
+       threeWayQuicksort(arr,gt+1,hi);
+ 	}
 
 
   public int medianOf3(int[] arr,int lo, int center, int hi) {
@@ -62,7 +83,7 @@ public class QuickSort{
       swap(temp,1, 2);
     return temp[2];
   }
-
+  
 
 }
 

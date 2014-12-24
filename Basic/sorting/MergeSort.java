@@ -14,7 +14,7 @@ public class Arrays{
      	merge(arr,aux,lo,mid,hi);
   }
   
-
+  //Use CompareTo instead of lt and gt
   public void merge(Comparable[] arr, Comparable[] aux, int lo, int mid, int hi){
      int i = lo, j=mid+1;
      for(int k=lo;k<=hi;k++)

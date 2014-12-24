@@ -11,7 +11,7 @@ public class CountingInversions{
    }
    
    // | | | | | | | | i        mid  mid-i+1 elements are greater than arr[j] +1 is for including arr[i] also
-
+   //use compareTo instead of less than or greater than symbols
    public void merge(Comaparable[] arr, Comparable[] aux, int lo, int mid, int hi){
      int i = lo, j=mid+1;
      long inversions = 0;

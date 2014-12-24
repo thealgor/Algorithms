@@ -10,6 +10,7 @@ public class Arrays{
     
     //worst case time complexity
     //O(n2) time complexity
+    //Whatever remains in [right..last] is in place
 	public void merge(Comparalbe[] arr, int lo, int mid, int hi){
 		int i=lo, j=mid+1;
 		for(int k=0;k<arr.length;k++){

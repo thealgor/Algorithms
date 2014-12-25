@@ -1,5 +1,6 @@
 //Counting sort does the sorting of elements in linear time O(n). Generally any sorting which can be accomplished in linear time makes some assumption on the data provided. In case of counting sort, 
 //The assumption made is that the max value in a given set of “n” items is “k”, (where k = O(n)) then the sort runs in linear time.
+//stable sort
 
 public class CountingSort{
     //max or radix

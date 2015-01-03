@@ -1,5 +1,6 @@
 /*
   SRM 206 Div2 500
+  http://community.topcoder.com/stat?c=problem_statement&pm=2435
 */
 
 import java.util.*;

@@ -21,6 +21,7 @@ public class Compress{
                 count=1;
             }
         }
+        //forgot this first time.
         sb.append(curr);
         sb.append(count);
         if(sb.length()>str.length())

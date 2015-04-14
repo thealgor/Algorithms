@@ -41,7 +41,7 @@
 
 ### Simple, search and iteration:
 - [CrazyBot](Topcoder/reuse/Simple Search,Iteration/CrazyBot.java) _DFS_ _AdjacencyMatrix_
-- [BombSweeper](Topcoder/reuse/Simple Search,Iteration/BombSweeper.java) _Matrix_ _Neighbours_
+- [BombSweeper](Topcoder/reuse/Simple Search,Iteration/BombSweeper.java) _Matrix_ _DistanceNeighbours_
 - [Cell Removal](Topcoder/reuse/Simple Search,Iteration/CellRemoval.java) _DFS_ _AdjacencyMatrix_
 
 

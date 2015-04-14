@@ -17,6 +17,12 @@
 - [Rotate Matrix 90](CTCI/Arrays%20and%20Strings/RotateMatrix.java)
 - [Has Unique Characters](CTCI/Arrays and Strings/UniqueCharacters.java)
 
+## DP
+- [Maximum Contiguous SubSequence][Basic/DP/MaxContiguousSubsequence.java]
+- [Largest Substring](Basic/DP/LargestSubString.java)
+- [Largest Increasing Subsequence](Basic/DP/LargestIncreasingSubsequence.java)
+- [Coin Exchange](Basic/DP/CoinExchange.java)
+
 
 
 

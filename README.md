@@ -18,7 +18,7 @@
 - [Has Unique Characters](CTCI/Arrays and Strings/UniqueCharacters.java)
 
 ## DP Problems
-- [Maximum Contiguous SubSequence][Basic/DP/MaxContiguousSubsequence.java]
+- [Maximum Contiguous SubSequence](Basic/DP/MaxContiguousSubsequence.java)
 - [Largest Substring](Basic/DP/LargestSubString.java)
 - [Largest Increasing Subsequence](Basic/DP/LargestIncreasingSubsequence.java)
 - [Coin Exchange](Basic/DP/CoinExchange.java)
@@ -43,6 +43,10 @@
 - [CrazyBot](Topcoder/reuse/Simple Search,Iteration/CrazyBot.java) _DFS_ _AdjacencyMatrix_
 - [BombSweeper](Topcoder/reuse/Simple Search,Iteration/BombSweeper.java) _Matrix_ _DistanceNeighbours_
 - [Cell Removal](Topcoder/reuse/Simple Search,Iteration/CellRemoval.java) _DFS_ _AdjacencyMatrix_
+- [Isomorphic Words](Topcoder/reuse/Simple Search%2CIteration/CountPairs.java)
+- [Colourful Coins Easy](Topcoder/reuse/Simple Search,Iteration/ColorfulCoinsEasy.java)
+- [Year Progress Bar](Topcoder/reuse/Simple Search,Iteration/YearProgressBar.java)
+- 
 
 
 

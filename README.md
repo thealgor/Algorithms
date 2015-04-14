@@ -35,6 +35,16 @@
 
 
 
+#TopCoder Problems:
+
+##Useful:
+
+### Simple, search and iteration:
+- [CrazyBot](Topcoder/reuse/Simple Search,Iteration/CrazyBot.java)
+
+
+
+
 
 
 

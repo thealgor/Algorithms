@@ -51,6 +51,9 @@
 - [BifidSorting Machine](Topcoder/moduse/Sorting/BifidSortingMachine.java)
 - [BlackWhitePlane](Topcoder/moduse/Sorting/BlackWhitePlane.java)
 - [BridgeSort](Topcoder/moduse/Sorting/BridgeSort.java)
+- [Decipher](Topcoder/moduse/Sorting/Decipher.java)
+- [GUMISongsDiv2](Topcoder/moduse/Sorting/GUMIAndSongsDiv2.java)
+- [HealthFood](Topcoder/moduse/Sorting/HealthFood.java)
 
 ##Set2
 
@@ -59,6 +62,12 @@
 - [Badgers](Topcoder/moduse/Sorting/Badgers.java)
 - [BinaryCardinality](Topcoder/moduse/Sorting/BinaryCardinality.java)
 - [ClientsList](Topcoder/moduse/Sorting/ClientsList.java)
+- [Create Pairs](Topcoder/moduse/Sorting/CreatePairs.java)
+- [FibonacciPositoining](Topcoder/moduse/Sorting/FibonacciPositioning.java)
+- [FoxMP3Easy](Topcoder/moduse/Sorting/FoxAndMP3Easy.java)
+- [GroceryBagger](Topcoder/moduse/Sorting/GroceryBagger.java)
+- [GroupWork](Topcoder/moduse/Sorting/GroupWork.java)
+- [KingSort](Topcoder/moduse/Sorting/KingSort.java)
 - 
 
 

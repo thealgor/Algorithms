@@ -9,7 +9,7 @@
 - [Compress aaa => a3](CTCI/Arrays and Strings/Compress.java)
 - [First NonRepeated Char](CTCI/Arrays and Strings/FirstNonRepeatedChar.java)
 - [Matrix Row Column Zero](CTCI/Arrays and Strings/MatrixRowColumnZero.java)
-- [String Permutation](CTCI/Arrays and Strings/Permutation.java)
+- [Verify String Permutation](CTCI/Arrays and Strings/Permutation.java)
 - [Matrix Print Spirally](CTCI/Arrays and Strings/PrintSpirally.java)
 - [Remove Chars In Place](CTCI/Arrays and Strings/RemoveCharsInStringInPlace.java)
 - [Replace Space with Perc 20](CTCI/Arrays and Strings/ReplaceSpace20.java)
@@ -37,7 +37,7 @@
 
 #TopCoder Problems:
 
-##Useful:
+##Set1:
 
 ### Simple, search and iteration:
 - [CrazyBot](Topcoder/reuse/Simple Search,Iteration/CrazyBot.java) _DFS_ _AdjacencyMatrix_
@@ -46,6 +46,20 @@
 - [Isomorphic Words](Topcoder/reuse/Simple Search%2CIteration/CountPairs.java)
 - [Colourful Coins Easy](Topcoder/reuse/Simple Search,Iteration/ColorfulCoinsEasy.java)
 - [Year Progress Bar](Topcoder/reuse/Simple Search,Iteration/YearProgressBar.java)
+
+###Sorting:
+- [BifidSorting Machine](Topcoder/moduse/Sorting/BifidSortingMachine.java)
+- [BlackWhitePlane](Topcoder/moduse/Sorting/BlackWhitePlane.java)
+- [BridgeSort](Topcoder/moduse/Sorting/BridgeSort.java)
+
+##Set2
+
+###Sorting:
+- [Anagram, Ignore previously encountered](Topcoder/moduse/Sorting/Aaagrams.java)
+- [Badgers](Topcoder/moduse/Sorting/Badgers.java)
+- [BinaryCardinality](Topcoder/moduse/Sorting/BinaryCardinality.java)
+- [ClientsList](Topcoder/moduse/Sorting/ClientsList.java)
+- 
 
 
 

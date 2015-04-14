@@ -23,6 +23,16 @@
 - [Largest Increasing Subsequence](Basic/DP/LargestIncreasingSubsequence.java)
 - [Coin Exchange](Basic/DP/CoinExchange.java)
 
+##Sorting
+- [Merge Sort](Basic/sorting/MergeSort.java)
+- [Merge Sort Without Extra Space](Basic/sorting/MergeSortWithoutExtraSpace.java)
+- [Bottom Up Merge Sort](Basic/sorting/BottomUpMergeSort.java)
+- [Quick Sort Without Extra Space](Basic/sorting/QuickSortWithoutExtraSpace.java)
+- [Counting Inversions](Basic/sorting/CountingInversions.java)
+- [Three way String sort](Basic/sorting/ThreeWayStringSort.java)
+- [Counting Sort](Basic/sorting/CoutingSort.java)
+- [LSD Radix Sort](Basic/sorting/LSDRadix.java)
+
 
 
 

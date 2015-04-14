@@ -62,6 +62,11 @@
 
 ##Set2
 
+###Simple,Search and Iteration
+- [Mailbox](Topcoder/moduse/Iteration,simple search/Mailbox.java)
+- [PiecewiseLinearFunctionDiv2](Topcoder/moduse/Iteration,simple search/PiecewiseLinearFunctions.java)
+- [TheNewHouseDiv2](Topcoder/moduse/Iteration,simple search/TheNewHouseDivTwo.java)
+
 ###Sorting:
 - [Anagram, Ignore previously encountered](Topcoder/moduse/Sorting/Aaagrams.java)
 - [Badgers](Topcoder/moduse/Sorting/Badgers.java)

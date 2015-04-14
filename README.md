@@ -17,13 +17,13 @@
 - [Rotate Matrix 90](CTCI/Arrays%20and%20Strings/RotateMatrix.java)
 - [Has Unique Characters](CTCI/Arrays and Strings/UniqueCharacters.java)
 
-## DP
+## DP Problems
 - [Maximum Contiguous SubSequence][Basic/DP/MaxContiguousSubsequence.java]
 - [Largest Substring](Basic/DP/LargestSubString.java)
 - [Largest Increasing Subsequence](Basic/DP/LargestIncreasingSubsequence.java)
 - [Coin Exchange](Basic/DP/CoinExchange.java)
 
-##Sorting
+##Sorting Algorithms
 - [Merge Sort](Basic/sorting/MergeSort.java)
 - [Merge Sort Without Extra Space](Basic/sorting/MergeSortWithoutExtraSpace.java)
 - [Bottom Up Merge Sort](Basic/sorting/BottomUpMergeSort.java)

@@ -40,7 +40,9 @@
 ##Useful:
 
 ### Simple, search and iteration:
-- [CrazyBot](Topcoder/reuse/Simple Search,Iteration/CrazyBot.java)
+- [CrazyBot](Topcoder/reuse/Simple Search,Iteration/CrazyBot.java) _DFS_ _Matrix_
+- [BombSweeper](Topcoder/reuse/Simple Search,Iteration/BombSweeper.java) _Matrix Neighbours_
+- 
 
 
 

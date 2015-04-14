@@ -54,6 +54,11 @@
 - [Decipher](Topcoder/moduse/Sorting/Decipher.java)
 - [GUMISongsDiv2](Topcoder/moduse/Sorting/GUMIAndSongsDiv2.java)
 - [HealthFood](Topcoder/moduse/Sorting/HealthFood.java)
+- [MatchMaking](Topcoder/moduse/Sorting/MatchMaking.java)
+- [MedalTable](Topcoder/moduse/Sorting/MedalTable.java)
+- [PaintBall](Topcoder/moduse/Sorting/Paintball.java)
+- [PalindromeMaker](Topcoder/moduse/Sorting/PalindromeMaker.java)
+- [SortingGame](Topcoder/moduse/Sorting/SortingGame.java)
 
 ##Set2
 
@@ -68,7 +73,14 @@
 - [GroceryBagger](Topcoder/moduse/Sorting/GroceryBagger.java)
 - [GroupWork](Topcoder/moduse/Sorting/GroupWork.java)
 - [KingSort](Topcoder/moduse/Sorting/KingSort.java)
-- 
+- [OmahaLaw](Topcoder/moduse/Sorting/OmahaLaw.java)
+- [RegularSeason](Topcoder/moduse/Sorting/RegularSeason.java)
+- [ReportAccess](Topcoder/moduse/Sorting/ReportAccess.java)
+- [ScheduleStrength](Topcoder/moduse/Sorting/ScheduleStrength.java)
+- [ServiceNames](Topcoder/moduse/Sorting/ServiceNames.java)
+- [TagALogDictionary](Topcoder/moduse/Sorting/TagalogDictionary.java)
+- [WordComposition](Topcoder/moduse/Sorting/WordCompositionGame.java)
+- [YetAnotherIncredibleMachine](Topcoder/moduse/Sorting/YetAnotherIncredibleMachine.java)
 
 
 

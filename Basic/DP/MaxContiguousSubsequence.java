@@ -1,4 +1,4 @@
-ipublic class MaxContiguousSubsequence{
+public class MaxContiguousSubsequence{
 	
     public static void maxSubSeq(int[] arr){
     	int start = -1, end = -1,gstart,gend, currMax = Integer.MIN_VALUE, globalMax = Integer.MIN_VALUE;

@@ -10,7 +10,7 @@ public class LoopFirstLengthCycle{
     /*
 
       INCOMPLETE:
-      
+
        when one is moving two steps and the other is moving one step, is it gauranteed to meet?
 
        Every p steps slowrunner takes, fastrunner takes 2p steps. Say, slow runner enters loop after k steps, fastrunner

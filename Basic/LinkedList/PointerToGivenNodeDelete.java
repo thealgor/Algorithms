@@ -9,7 +9,7 @@ public class PointerToGivenNodeDelete{
 	}
 	public static void deleteNode(Node ptr){
 		if(ptr==null || ptr.next==null)
-			throw new IllegalArgumentExcpetion("Send the node somewhwer in the middle of a linked list";)
+			throw new IllegalArgumentException("Send the node somewhwer in the middle of a linked list");
 		Node nextNode = ptr.next;
 		int tempdata = nextNode.data;
 		ptr.data = tempdata;

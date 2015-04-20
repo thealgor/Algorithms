@@ -7,6 +7,11 @@ public class ReverseKNodesLL{
 			this.next = next;
 		}
 	}
+    /*
+      when k=2, we can easily swap the data of two nodes
+
+     */
+
     public Node reverseKnodes(Node l, int k){
     	Node curr = l;
         Node head = l;
@@ -52,7 +57,7 @@ public class ReverseKNodesLL{
     		curr.next = newNode;
     		curr = newNode;
     	}
-       Node f = reverseKnodes(res,3);
+       Node f = reverseKnodes(res,2);
        while(f!=null){
        	System.out.println(f.data);
        	f=f.next;

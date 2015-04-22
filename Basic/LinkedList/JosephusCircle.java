@@ -6,7 +6,7 @@ public class JosephusCircle{
 		private Node next;
 		public Node(int data, Node next){
 			this.data = data;
-			this.next;
+			this.next=next;
 		}
 	}
 
@@ -20,7 +20,7 @@ public class JosephusCircle{
 		}
 		Node head = dummy.next;
 		curr.next = head; //create a loop
-        Node curr = head;
+        curr = head;
         Node prev;
 		for(int i =0;i<N;i++){
 			for(int j=0;j<M;j++){

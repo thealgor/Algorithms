@@ -15,6 +15,12 @@
 - [LinkedListNextRandomClone](Basic/LinkedList/LinkedListNextRandomClone.java)
 - [LoopFirstLengthCycle](Basic/LinkedList/LoopFirstLengthCycle.java)
 - [MiddleOfLL](Basic/LinkedList/MiddleOfLinkedList.java)
+- [OddEvenPartition](Basic/LinkedList/OddEvenPartition.java)
+- [PalindromeLL](Basic/LinkedList/PalindromeLL.java)
+- [PointerToGivenNodeDelete](Basic/LinkedList/PointerToGivenNodeDelete.java)
+- [ReverseKNodesLL](Basic/LinkedList/ReverseKNodesLL.java)
+- [ReverseLl](Basic/LinkedList/ReverseLinkedList.java)
+- [TwoLLsIntersect](Basic/LinkedList/TwoLinkedListsIntersect.java)
 
 ## Arrays
 - [AtoI](CTCI/Arrays and Strings/AtoI.java) 

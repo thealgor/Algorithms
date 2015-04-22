@@ -1,4 +1,4 @@
-public class LargestIncreasingSubsequencee{
+public class LargestIncreasingSubsequence{
 
     public static void lis(int[] arr){
         if(arr==null || arr.length==0)

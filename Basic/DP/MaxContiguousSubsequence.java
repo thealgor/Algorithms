@@ -1,7 +1,7 @@
 public class MaxContiguousSubsequence{
 	
     public static void maxSubSeq(int[] arr){
-    	int start = -1, end = -1,gstart,gend, currMax = Integer.MIN_VALUE, globalMax = Integer.MIN_VALUE;
+    	int start = -1, end = -1,gstart=-1,gend=-1, currMax = Integer.MIN_VALUE, globalMax = Integer.MIN_VALUE;
     	for(int i=0;i<arr.length;i++){
     		int v = arr[i];
     		if(v> currMax+v){

@@ -11,7 +11,7 @@ public class CircularLLOperations{
 	public Node insert(Node head,int data, int pos){
 		
         if(head ==null)
-        	return newNode(data,null);
+        	return new Node(data,null);
 		Node tail = head.next;
 		
 		while(tail.next!=head){
@@ -62,7 +62,7 @@ public class CircularLLOperations{
         Node tail2 = null;
         if(fast.next == head)
             tail2 = fast;
-        else if(fast.next.next = head)
+        else if(fast.next.next == head)
         	tail2=fast.next;
 		tail2.next = head2;
 		slow.next = head;

@@ -1,5 +1,3 @@
-
-import javax.naming.OperationNotSupportedException;
 import java.util.*;
 public class FlattenMultiLevelLLIterator{
     public void iterate(Node head){

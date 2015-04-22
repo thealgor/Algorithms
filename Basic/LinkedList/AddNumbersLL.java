@@ -59,10 +59,6 @@ public class AddNumbersLL{
     	}
     	return result;
     }
-    
-
-
-
 
 	public static void main(String[] args){
 		Node head1 = new Node(9, null);

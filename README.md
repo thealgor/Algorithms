@@ -13,6 +13,8 @@
 - [FlattenLL](Basic/LinkedList/FlattenMultilevelLL.java)
 - [JosephusCircle](Basic/LinkedList/JosephusCircle.java)
 - [LinkedListNextRandomClone](Basic/LinkedList/LinkedListNextRandomClone.java)
+- [LoopFirstLengthCycle](Basic/LinkedList/LoopFirstLengthCycle.java)
+- [MiddleOfLL](Basic/LinkedList/MiddleOfLinkedList.java)
 
 ## Arrays
 - [AtoI](CTCI/Arrays and Strings/AtoI.java) 

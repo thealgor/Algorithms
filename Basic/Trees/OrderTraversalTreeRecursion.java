@@ -10,14 +10,7 @@ public class OrderTraversalTreeRecursion{
 		}
 	}
     
-    //DLR
-    public void prorder(Node head){
-    	if(head == null)
-    		return;
-    	System.out.println(head.data);
-    	preorder(head.left);
-    	preorder(head.right);
-    }
+
     
     //LDR
     public void inorder(Node head){

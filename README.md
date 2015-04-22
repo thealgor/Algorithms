@@ -3,6 +3,16 @@
 ## Linked List:
 
 - [Stanford Pdf Problems!](Basic/LinkedList/StackUsingLinkedList.java)
+- [AddNumbersLL](Basic/LinkedList/AddNumbersLL.java)
+- [AddNumbersLLSt](Basic/LinkedList/AddNumbersLLSt.java)
+- [CircularLLOperations](Basic/LinkedList/CircularLLOperations.java)
+- [DisplayFromEnd](Basic/LinkedList/DisplayLinkedListFromEnd.java)
+- [DoubleLL](Basic/LinkedList/DoubleLL.java)
+- [FindNthFromLast](Basic/LinkedList/FindNthFromLast.java)
+- [IteratorFlattenLL](Basic/LinkedList/FlattenMultiLevelLLIterator.java)
+- [FlattenLL](Basic/LinkedList/FlattenMultilevelLL.java)
+- [JosephusCircle](Basic/LinkedList/JosephusCircle.java)
+- [LinkedListNextRandomClone](Basic/LinkedList/LinkedListNextRandomClone.java)
 
 ## Arrays
 - [AtoI](CTCI/Arrays and Strings/AtoI.java) 

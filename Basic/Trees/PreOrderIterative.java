@@ -23,7 +23,7 @@ public class PreOrderIterative{
 	public void preOrderIterative(Node root){
 		Stack<Node> st = new Stack<Node>();
 		while(true){
-			while(root!=null){
+			while(root!=null){ //was always using st.empty() here, so not working.
            	  		System.out.println(root.data);
            	  		st.push(root);
            	  		root = root.left;
@@ -52,7 +52,4 @@ public class PreOrderIterative{
 		PreOrderIterative p = new PreOrderIterative();
 		p.test();
 	}
-
-
-	
 }

@@ -33,7 +33,20 @@ public class PreOrderIterative{
 				root = st.pop();
                 root = root.right;
            }
-       } 
+       }
+
+	public void preOrderIterativeBetter(Node root){
+		Stack<Node> st = new Stack<Node>();
+		st.push(root);
+		while(!st.isEmpty()){
+			Node curr = st.pop();
+			System.out.println(curr.data);
+			if(curr.right!=null)
+				st.push(curr.right);
+			if(curr.left!=null)
+				st.push(curr.left);
+		}
+	}
 
 	public void test(){
 		Node four = new Node(4,null,null);
@@ -46,6 +59,8 @@ public class PreOrderIterative{
 		preOrderIterative(one);
 		System.out.println("Recursive code");
 		preOrderRecursive(one);
+		System.out.println("Better Solution");
+		preOrderIterativeBetter(one);
 	}
 
 	public static void main(String[] orgs){

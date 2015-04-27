@@ -14,7 +14,14 @@ public class LevelOrder {
             this.right = right;
         }
     }
+    /*
+       If a collection refuses to add a particular element for any reason other than that it already contains the element, it must throw an exception (rather than returning false).
+       This preserves the invariant that a collection always contains the specified element after this call returns.
 
+       that when element can not be added to collection the add method throws an exception and offer does'nt.
+       The difference is that offer() will return false if it fails to insert the element on a size restricted Queue, whereas add() will throw an IllegalStateException.
+       You should use offer() when failure to insert an element would be normal, and add() when failure would be an exceptional occurrence (that needs to be handled).
+     */
     public List<Integer> levelOrderTraversal(Node root){
         if(root == null)
             return null;
@@ -25,9 +32,9 @@ public class LevelOrder {
             Node curr = q.remove();
             res.add(curr.data);
             if(curr.left!=null)
-                q.add(curr.left);
+                q.add(curr.left); //q.offer(curr.left);
             if(curr.right!=null)
-                q.add(curr.right);
+                q.add(curr.right); //q.offer(curr.right);
         }
         return res;
     }

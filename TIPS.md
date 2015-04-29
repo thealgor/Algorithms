@@ -1,0 +1,18 @@
+1. For Getting Integer Length:
+int length = Math.log10(1000)+1 (Integer length).
+2. For Filling Arrays with a particular value:
+Arrays.fill(arr,0);
+3.Library to Sort an Array:
+Arrays.sort(arr)4.Always use Math.min:
+int min = Math.min(min,curr); //instead of if else
+5.Typical Max value and min value used:
+int min= Integer.MAX_VALUE; int max = Integer.MIN_VALUE;
+6.Variable Names:
+boolean used.boolean found. long from, long to int i,j,k. If already used, use p1, p2,p3 int x,y,z – only for loops. You can also write for and if statement in one line.
+7. CompareTo method:
+str1.compareTo(str2) 
+1) str1==str2 ==> return 0;
+2) str1<str2 ==> returns <0
+3) str1>str2 ==> returns >0;
+8. Convert Arraylist to String[] array:
+String[] res = list.toArray(new String[list.size()]);

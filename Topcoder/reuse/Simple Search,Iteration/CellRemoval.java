@@ -2,7 +2,7 @@
 //Src 435 
 //First time code represented using adjacency matrix
 //Run a graph traversal algorithm, before running it make sure you know which nodes are leaves. If a node matches deleted node, dont run any further. continue dfs excluding the node.
-
+//http://community.topcoder.com/stat?c=problem_statement&pm=10275
 
 import java.util.*;
 import java.util.regex.*;

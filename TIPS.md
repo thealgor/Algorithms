@@ -16,3 +16,4 @@ str1.compareTo(str2)
 3) str1>str2 ==> returns >0;
 8. Convert Arraylist to String[] array:
 String[] res = list.toArray(new String[list.size()]);
+9. Always be cautious of using Set vs List, Set or Map doesnt allow the key element to be duplicate. If you are adding stuff like names etc, there is a very likely duplicate name. Use lists

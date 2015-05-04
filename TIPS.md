@@ -17,3 +17,10 @@ str1.compareTo(str2)
 8. Convert Arraylist to String[] array:
 String[] res = list.toArray(new String[list.size()]);
 9. Always be cautious of using Set vs List, Set or Map doesnt allow the key element to be duplicate. If you are adding stuff like names etc, there is a very likely duplicate name. Use lists
+10. Remove specific characters from a java string:
+  str = str.replace("X","");
+  alwasy reassign otherwise, you are not actually replacing it.
+11. For converting a character into its "actual" number, you can use this predefined method:
+  int v = Character.getNumericValue(c);
+12. Always ask for sizes of the variable. Sometimes bruteforce solution can be enough. For n! problems n<=10, bruteforce could be enough.
+13.

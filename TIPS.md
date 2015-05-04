@@ -1,4 +1,4 @@
-1. For Getting Integer Length:
+1. For Getting Integer Length
 int length = Math.log10(1000)+1 (Integer length).
 2. For Filling Arrays with a particular value:
 Arrays.fill(arr,0);

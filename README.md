@@ -76,7 +76,7 @@
 - [MedalTable](Topcoder/moduse/Sorting/MedalTable.java)
 - [PaintBall](Topcoder/moduse/Sorting/Paintball.java)
 - [PalindromeMaker](Topcoder/moduse/Sorting/PalindromeMaker.java)
-- [SortingGame](Topcoder/moduse/Sorting/SortingGame.java)
+- [SortingGame](Topcoder/moduse/Sorting/SortingGame.java) _GRAPH_ _ITERATION_ _SORTING_
 
 ##Set2
 

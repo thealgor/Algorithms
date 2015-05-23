@@ -1,3 +1,6 @@
+// http://community.topcoder.com/stat?c=problem_statement&pm=1524&rd=4472
+// Amazing question div1 500. Solved from the editorial
+
 public class Marketing {
 
     boolean[][] edge = new boolean[64][64];

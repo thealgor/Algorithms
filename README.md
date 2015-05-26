@@ -42,6 +42,8 @@
 - [LevelOrder](Basic/Trees/LevelOrder.java)
 - [PostOrderIterative](Basic/Trees/PostOrderIterative.java)
 - [PreOrderIterative](Basic/Trees/PreOrderIterative.java)
+- [InOrderTraversal](Basic/Trees/InOrder.java)
+- [BinaryTreeTraversal](Basic/Trees/BinaryTreeProblems.java)
 
 ## DP Problems
 - [Maximum Contiguous SubSequence](Basic/DP/MaxContiguousSubsequence.java)

@@ -34,6 +34,8 @@
 - [Reverse String In Place](CTCI/Arrays and Strings/ReverseStringInPlace.java)
 - [Rotate Matrix 90](CTCI/Arrays%20and%20Strings/RotateMatrix.java)
 - [Has Unique Characters](CTCI/Arrays and Strings/UniqueCharacters.java)
+- [GuessCard](Basic/Arrays/GuessCard.java) _Verify_
+
 
 ## DP Problems
 - [Maximum Contiguous SubSequence](Basic/DP/MaxContiguousSubsequence.java)
@@ -61,7 +63,7 @@
 ##Set1:
 
 ###General
-LuckyString(Topcoder/moduse/Iteration,simple search/TheLuckyString.java) _Permutations_
+- [LuckyString](Topcoder/moduse/Iteration,simple search/TheLuckyString.java) _Permutations_
 
 
 
@@ -88,6 +90,7 @@ LuckyString(Topcoder/moduse/Iteration,simple search/TheLuckyString.java) _Permut
 - [Isomorphic Words](Topcoder/reuse/Simple Search%2CIteration/CountPairs.java)
 - [Colourful Coins Easy](Topcoder/reuse/Simple Search,Iteration/ColorfulCoinsEasy.java)
 - [Year Progress Bar](Topcoder/reuse/Simple Search,Iteration/YearProgressBar.java)
+- [RockPaperScissors](Topcoder/moduse/Iteration,simple search/RockPaperScissorsMagicEasy.java) _ComputenCr_ _Pyramid_
 
 ###Sorting:
 - [BifidSorting Machine](Topcoder/moduse/Sorting/BifidSortingMachine.java)
@@ -108,6 +111,9 @@ LuckyString(Topcoder/moduse/Iteration,simple search/TheLuckyString.java) _Permut
 - [Mailbox](Topcoder/moduse/Iteration,simple search/Mailbox.java)
 - [PiecewiseLinearFunctionDiv2](Topcoder/moduse/Iteration,simple search/PiecewiseLinearFunctions.java)
 - [TheNewHouseDiv2](Topcoder/moduse/Iteration,simple search/TheNewHouseDivTwo.java)
+- [DNAString]( Topcoder/moduse/Iteration,simple search/DNAString.java)
+- [YetAnotherIncredibleMachine1](Topcoder/moduse/Iteration,simple search/YetAnotherIncredibleMachine1.java)
+
 
 ###Sorting:
 - [Anagram, Ignore previously encountered](Topcoder/moduse/Sorting/Aaagrams.java)

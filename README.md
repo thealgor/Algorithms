@@ -36,7 +36,12 @@
 - [Has Unique Characters](CTCI/Arrays and Strings/UniqueCharacters.java)
 - [GuessCard](Basic/Arrays/GuessCard.java) _Verify_
 - [TwoSum](Basic/Arrays/TwoSum.java)
+- [FindKth](Basic/Arrays/FindKth.java)
 
+## Trees
+- [LevelOrder](Basic/Trees/LevelOrder.java)
+- [PostOrderIterative](Basic/Trees/PostOrderIterative.java)
+- [PreOrderIterative](Basic/Trees/PreOrderIterative.java)
 
 ## DP Problems
 - [Maximum Contiguous SubSequence](Basic/DP/MaxContiguousSubsequence.java)

@@ -51,6 +51,9 @@
 - [Counting Sort](Basic/sorting/CoutingSort.java)
 - [LSD Radix Sort](Basic/sorting/LSDRadix.java)
 
+##Graphs
+- [DetectCycle](Basic/Graphs/DetectCycle.java) _Colors_
+
 
 
 #TopCoder Problems:

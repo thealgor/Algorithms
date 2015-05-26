@@ -122,3 +122,9 @@
 - [TagALogDictionary](Topcoder/moduse/Sorting/TagalogDictionary.java)
 - [WordComposition](Topcoder/moduse/Sorting/WordCompositionGame.java)
 - [YetAnotherIncredibleMachine](Topcoder/moduse/Sorting/YetAnotherIncredibleMachine.java)
+
+##Graphs
+- [Circuits](Topcoder/moduse/Graphs/Circuits.java) _DFS_
+- [FilipTheFrog](Topcoder/moduse/Graphs/FilipTheFrog.java) _BFS_
+
+

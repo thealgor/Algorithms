@@ -64,12 +64,12 @@
 - [Fragile2](Topcoder/reuse/Graphs/Fragile2.java) _ConnectedComponents_ _NotSettingTrue_
 - [GraphMaskIteration](Topcoder/reuse/Graphs/GraphixMaskIteration.java) _DFS_ _FloodFill_ _Stack_ 
 - [grafixMask](Topcoder/reuse/Graphs/grafixMask.java) _DFS_ _FloodFill_ _Recursive_
-- [IslandFerries]
-- [KiloManX]
-- [Marketing]
-- [PPath]
-- [PathFinding]
-- 
+- [IslandFerries](Topcoder/reuse/Graphs/IslandFerries.java) _ToughProblem_ _Dijkstra_ _BitManipulation_ 
+- [KiloManX](Topcoder/reuse/Graphs/KiloManX.java) _Dijkstra_ _BitManipulation_ _GoodProblem_
+- [Marketing](Topcoder/reuse/Graphs/Marketing.java) _ConnectedComponents_ _Bipartite_ _DFS_ 
+- [PPath](Topcoder/reuse/Graphs/PPath.java) _SieveOfEratothenes_ _DFS_
+- [PathFinding](Topcoder/reuse/Graphs/PathFinding.java) _Player1Player2_ _BFS_ _LotOfConditions_
+
 
 
 ### Simple, search and iteration:

@@ -60,6 +60,12 @@
 
 ##Set1:
 
+###General
+LuckyString(Topcoder/moduse/Iteration,simple search/TheLuckyString.java) _Permutations_
+
+
+
+
 ###Graphs:
 - [BombMan](Topcoder/reuse/Graphs/BombMan.java) _Dijkstra's_ _ShortestPath_ _HashCode_ _Equals_ _Maze_
 - [CellRemoval1](Topcoder/reuse/Graphs/CellRemoval1.java) _practice_

@@ -57,6 +57,21 @@
 
 ##Set1:
 
+###Graphs:
+- [BombMan]()
+- [CellRemoval]
+- [DungeonEscape]
+- [Fragile2]
+- [GraphMaskIteration]
+- [grafixMask]
+- [IslandFerries]
+- [KiloManX]
+- [Marketing]
+- [PPath]
+- [PathFinding]
+- 
+
+
 ### Simple, search and iteration:
 - [CrazyBot](Topcoder/reuse/Simple Search,Iteration/CrazyBot.java) _DFS_ _AdjacencyMatrix_
 - [BombSweeper](Topcoder/reuse/Simple Search,Iteration/BombSweeper.java) _Matrix_ _DistanceNeighbours_
@@ -104,12 +119,3 @@
 - [TagALogDictionary](Topcoder/moduse/Sorting/TagalogDictionary.java)
 - [WordComposition](Topcoder/moduse/Sorting/WordCompositionGame.java)
 - [YetAnotherIncredibleMachine](Topcoder/moduse/Sorting/YetAnotherIncredibleMachine.java)
-
-
-
-
-
-
-
-
-

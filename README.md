@@ -58,12 +58,12 @@
 ##Set1:
 
 ###Graphs:
-- [BombMan]()
-- [CellRemoval]
-- [DungeonEscape]
-- [Fragile2]
-- [GraphMaskIteration]
-- [grafixMask]
+- [BombMan](Topcoder/reuse/Graphs/BombMan.java) _Dijkstra's_ _ShortestPath_ _HashCode_ _Equals_ _Maze_
+- [CellRemoval1](Topcoder/reuse/Graphs/CellRemoval1.java) _practice_
+- [DungeonEscape](Topcoder/reuse/Graphs/DungeonEscape.java) _Dijkstra_ _LotOfConditions_ _hashCodeEquals_ _Matrix_ 
+- [Fragile2](Topcoder/reuse/Graphs/Fragile2.java) _ConnectedComponents_ _NotSettingTrue_
+- [GraphMaskIteration](Topcoder/reuse/Graphs/GraphixMaskIteration.java) _DFS_ _FloodFill_ _Stack_ 
+- [grafixMask](Topcoder/reuse/Graphs/grafixMask.java) _DFS_ _FloodFill_ _Recursive_
 - [IslandFerries]
 - [KiloManX]
 - [Marketing]

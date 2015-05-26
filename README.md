@@ -35,6 +35,7 @@
 - [Rotate Matrix 90](CTCI/Arrays%20and%20Strings/RotateMatrix.java)
 - [Has Unique Characters](CTCI/Arrays and Strings/UniqueCharacters.java)
 - [GuessCard](Basic/Arrays/GuessCard.java) _Verify_
+- [TwoSum](Basic/Arrays/TwoSum.java)
 
 
 ## DP Problems
@@ -91,6 +92,10 @@
 - [Colourful Coins Easy](Topcoder/reuse/Simple Search,Iteration/ColorfulCoinsEasy.java)
 - [Year Progress Bar](Topcoder/reuse/Simple Search,Iteration/YearProgressBar.java)
 - [RockPaperScissors](Topcoder/moduse/Iteration,simple search/RockPaperScissorsMagicEasy.java) _ComputenCr_ _Pyramid_
+- [LongWordsDiv2](Topcoder/reuse/Simple Search,Iteration/LongWordsDiv2.java) _Strings_
+- [BaseMystery](Topcoder/reuse/Simple Search,Iteration/BaseMystery.java) _BigInteger_ _StringTokenizer_ _BaseConversions_
+- [PartySeats](Topcoder/reuse/Simple Search,Iteration/PartySeats.java) 
+- [ThreePhotos](Topcoder/moduse/Iteration,simple search/ThreePhotos.java)
 
 ###Sorting:
 - [BifidSorting Machine](Topcoder/moduse/Sorting/BifidSortingMachine.java)

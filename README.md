@@ -103,7 +103,7 @@
 - [ServiceNames](Topcoder/moduse/Sorting/ServiceNames.java)
 - [TagALogDictionary](Topcoder/moduse/Sorting/TagalogDictionary.java)
 - [WordComposition](Topcoder/moduse/Sorting/WordCompositionGame.java)
-- [YetAnotherIncredibleMachine](Topcoder/moduse/Sorting/YetAnotherIncredibleMachine.java)
+- [YetAnotherIncredibleMachine1](Topcoder/moduse/Sorting/YetAnotherIncredibleMachine1.java)
 
 
 

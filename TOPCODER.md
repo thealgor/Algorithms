@@ -1,6 +1,11 @@
 
 #TopCoder Problems:
 
+###Library
+[InputReader](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/lib/InputReader.java)
+[OutputWriter](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/lib/OutputWriter.java)
+[IOUtils](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/lib/IOUtils.java)
+
 ##Set1:
 
 ###General
@@ -21,6 +26,11 @@
 - [Marketing](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/Marketing.java) _ConnectedComponents_ _Bipartite_ _DFS_ 
 - [PPath](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/PPath.java) _SieveOfEratothenes_ _DFS_
 - [PathFinding](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/PathFinding.java) _Player1Player2_ _BFS_ _LotOfConditions_
+- [CarrotJumping](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/CarrotJumping.java) _BigInteger_ _BFS_
+- [Egalitarianism](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/Egalitarianism1.java) _BFS_ _ConnectedComponents_ _Floyd-warshall_
+- [Maze](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/Maze377ADFS.java) _DFS_ _CodeForces_ 
+- [MazeWanderingEasy](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/MazeWanderingEasy.java) _BFS_
+- [OneRegister](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Graphs/OneRegister.java) _BFS_ 
 
 
 
@@ -36,6 +46,8 @@
 - [BaseMystery](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/BaseMystery.java) _BigInteger_ _StringTokenizer_ _BaseConversions_
 - [PartySeats](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/PartySeats.java) 
 - [ThreePhotos](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple search/ThreePhotos.java)
+- [Subsets](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/SubsetsCodeForces.java)
+
 
 ###Sorting:
 - [BifidSorting Machine](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Sorting/BifidSortingMachine.java)
@@ -49,6 +61,7 @@
 - [PaintBall](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Sorting/Paintball.java)
 - [PalindromeMaker](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Sorting/PalindromeMaker.java)
 - [SortingGame](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Sorting/SortingGame.java) _GRAPH_ _ITERATION_ _SORTING_
+
 
 ##Set2
 
@@ -83,3 +96,4 @@
 ##Graphs
 - [Circuits](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Graphs/Circuits.java) _DFS_
 - [FilipTheFrog](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Graphs/FilipTheFrog.java) _BFS_
+- [NQueensIteration](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Graphs/NQueensIteration.java)

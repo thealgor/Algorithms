@@ -2,7 +2,7 @@
 
 ## Linked List:
 
-- [Stanford Pdf Problems!](Basic/LinkedList/StackUsingLinkedList.java)
+- [Stanford Pdf Problems!](https://github.com/thealgor/Algorithms/blob/master/Basic/LinkedList/StackUsingLinkedList.java)
 - [AddNumbersLL](Basic/LinkedList/AddNumbersLL.java)
 - [AddNumbersLLSt](Basic/LinkedList/AddNumbersLLSt.java)
 - [CircularLLOperations](Basic/LinkedList/CircularLLOperations.java)

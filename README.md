@@ -65,3 +65,6 @@
 
 ##Graphs
 - [DetectCycle](https://github.com/thealgor/Algorithms/blob/master/Basic/Graphs/DetectCycle.java) _Colors_
+
+#TOPCODER PROBLEMS
+[TopCoder Readme](https://github.com/thealgor/Algorithms/blob/master/TOPCODER.md)

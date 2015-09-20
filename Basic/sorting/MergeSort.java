@@ -1,3 +1,13 @@
+/* 
+    mistakes:
+             1) missed base condition for recursion
+             2) confused about copying aux to arr or arr to aux(stupid!)
+             3) wrote compareTo method on integer variables
+
+ */
+
+
+
 public class Arrays{
    
   public static void sort(Comparable[] arr){

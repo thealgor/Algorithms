@@ -9,7 +9,7 @@
 ##Set1:
 
 ###General
-- [LuckyString](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple search/TheLuckyString.java) _Permutations_
+- [LuckyString](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple%20search/TheLuckyString.java) _Permutations_
 
 
 

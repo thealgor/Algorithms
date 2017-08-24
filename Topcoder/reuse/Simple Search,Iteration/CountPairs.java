@@ -1,6 +1,9 @@
 //SRM 391 - good(made few mistakes, corrected before submitting)
 //Missed a case when mapping two charaacter aaa aba for the first a put in hashmap a,a and when I see  3rd a I am verifying if word2 also has a.
 //but missed a case if ab aa for a,a I will put next b,a also I am putting inside I am not verifying the reverse hash. did it with boolean and iteration.
+
+/*
+import java.util.*;
 import java.util.regex.*;
 import java.text.*;
 import java.math.*;
@@ -48,7 +51,7 @@ public class IsomorphicWords
 	   }
 		return count;
 	}
-	<%:testing-code%>
+//	<%:testing-code%>
 }
 //Powered by [KawigiEdit] 2.0!
 
@@ -80,3 +83,5 @@ public int countWords(String[] words){
 	}
 	return count;
 }
+}
+*/

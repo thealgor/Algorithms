@@ -9,7 +9,7 @@ import java.text.*;
 import java.math.*;
 import java.awt.geom.*;
 
-public class RegularSeason
+class RegularSeason
 {
 	public String[] finalStandings(String[] teams, int rounds)
 	{  

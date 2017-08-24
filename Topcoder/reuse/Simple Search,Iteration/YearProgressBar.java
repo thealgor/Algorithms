@@ -1,3 +1,5 @@
+/*
+
 import java.util.*;
 import java.util.regex.*;
 import java.text.*;
@@ -90,4 +92,5 @@ public class YearProgressbar
     return 100 * daysElapsed / daysInYear;
   }
 
-An alter
+}
+*/

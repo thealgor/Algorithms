@@ -9,7 +9,7 @@ import java.text.*;
 import java.math.*;
 import java.awt.geom.*;
 
-public class FoxAndMp3Easy
+public class FoxAndMP3Easy
 {
 	public String[] playList(int n)
 	{

@@ -7,7 +7,7 @@ import java.awt.geom.*;
 
 //made some silly mistakes ~ SRM 586 ~ 280 points , failed system test when I was checking just for the same y values but not if they are adjacent or not.
 //&& also I made a mistake (i<Y.length-1) && ((Y[i]<q&&Y[i+1]>q)||(Y[i]>q&&Y[i+1]<q)), I removed the outer brackets of the 2nd expresion~ Index out of bounds exception
-public class PiecewiseLinearFunctionDiv2
+ class PiecewiseLinearFunctionDiv2
 {
 	public int[] countSolutions(int[] Y, int[] query)
 	{   
@@ -48,6 +48,6 @@ public class PiecewiseLinearFunctionDiv2
 		return res;
 	}
 	
-	<%:testing-code%>
+
 }
 //Powered by [KawigiEdit] 2.0!

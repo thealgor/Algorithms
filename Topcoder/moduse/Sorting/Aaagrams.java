@@ -8,7 +8,7 @@ import java.text.*;
 import java.math.*;
 import java.awt.geom.*;
 
-public class Aaagmnrs
+class Aaagmnrs
 {
 	public String[] anagrams(String[] phrases)
 	{  

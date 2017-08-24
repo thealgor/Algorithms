@@ -1,5 +1,5 @@
 //3-way quick sort
-
+/*
 public class ThreeWayStringSort{
 
 private static int charAt(String s, int d)
@@ -25,3 +25,4 @@ public void sort(String[] arr, int lo, int hi, int d){
 }
 
 }
+*/

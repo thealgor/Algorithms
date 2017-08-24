@@ -28,7 +28,7 @@
 - [Compress aaa => a3](https://github.com/thealgor/Algorithms/blob/master/CTCI/Arrays and Strings/Compress.java)
 - [First NonRepeated Char](https://github.com/thealgor/Algorithms/blob/master/CTCI/Arrays and Strings/FirstNonRepeatedChar.java)
 - [Matrix Row Column Zero](https://github.com/thealgor/Algorithms/blob/master/CTCI/Arrays and Strings/MatrixRowColumnZero.java)
-- [Verify String Permutation](https://github.com/thealgor/Algorithms/blob/master/CTCI/Arrays and Strings/Permutation.java)
+- [Verify String PermutationTest](https://github.com/thealgor/Algorithms/blob/master/CTCI/Arrays and Strings/PermutationTest.java)
 - [Matrix Print Spirally](https://github.com/thealgor/Algorithms/blob/master/CTCI/Arrays and Strings/PrintSpirally.java)
 - [Remove Chars In Place](https://github.com/thealgor/Algorithms/blob/master/CTCI/Arrays and Strings/RemoveCharsInStringInPlace.java)
 - [Replace Space with Perc 20](CTCI/Arrays and Strings/ReplaceSpace20.java)

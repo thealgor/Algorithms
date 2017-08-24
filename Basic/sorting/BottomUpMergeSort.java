@@ -28,6 +28,8 @@ Trace of merge results for bottom-up mergesort
 AEEEEGLMMOPRRSTX
 */
 
+
+/*
 public void sort(Comparable[] arr){
 
 	for(int sz=1;sz<n;sz=sz+sz){
@@ -41,3 +43,4 @@ public void sort(Comparable[] arr){
 		//same routine
 	}
 }
+*/

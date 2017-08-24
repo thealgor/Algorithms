@@ -83,7 +83,7 @@ public class DNAString
         for(int i=1;i<=p;i++){
             int[][] c = new int[i][p];
             for(int j=0;j<cs.length;j+=i){
-                ++c[i][]
+                ++c[i][j];
             }
         }
         return -1;

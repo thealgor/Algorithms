@@ -10,7 +10,7 @@ import java.util.Arrays;
  * Actual solution is at the top
  * @author Sunil
  */
-public class BifidSortMachine {
+public class BifidSortingMachine {
     public int countMoves(int[] a) {
 
        int n = a.length;

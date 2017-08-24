@@ -1,3 +1,5 @@
+/*
+
 public class RemoveCharsInStrngInPlace{
 
 public static String removeChars( String str, String remove ){
@@ -17,3 +19,5 @@ public static String removeChars( String str, String remove ){
 	}
 	return new String( s, 0, dst ); }
 }
+
+*/

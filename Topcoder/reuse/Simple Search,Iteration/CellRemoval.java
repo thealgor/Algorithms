@@ -51,6 +51,7 @@ public class CellRemoval
 }
 //Powered by [KawigiEdit] 2.0!
 
+/**
 
 class CellRemoval1
 {
@@ -102,4 +103,6 @@ class CellRemoval1
 
 
 }
+
+*/
 //Powered by [KawigiEdit] 2.0!

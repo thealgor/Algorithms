@@ -18,6 +18,8 @@ package Search;
 
 //For string reversal kind of questions, always question yourself, what happens when we reach to end.
 
+/*
+
 public class ReverseString{
 
     public static String reverseString1(char[] str){
@@ -61,3 +63,4 @@ public class ReverseString{
     }
 
  }
+*/

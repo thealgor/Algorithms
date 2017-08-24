@@ -99,7 +99,7 @@ public class TheNewHouseDivTwo
 }
 
 
-//works
+/*
 
  public int count(int[] x, int[] y) {
 
@@ -159,4 +159,5 @@ public class TheNewHouseDivTwo
 
 }
 
+*/
 //Powered by [KawigiEdit] 2.0!

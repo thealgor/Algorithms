@@ -35,6 +35,6 @@ public class Mailbox
 		return count;
 	}
 	
-	<%:testing-code%>
+
 }
 //Powered by [KawigiEdit] 2.0!

@@ -1,3 +1,5 @@
+/*
+
 public class QuickSort{
     //cannot use shuffle for primitive like int[], you might have to use Integer[]
 	public static void sort(Comparable[] arr){
@@ -91,3 +93,5 @@ public class QuickSort{
 // equal values? Still not sure -You are proposing something smarter, which is sensible, but keep in mind that this takes more effort to determine that everything in a particular segment is equal to the pivot, which surely requires communicating between multiple threads (and this is more complicated to do). 
 // random shuffle - 1) probabilistic gaurantee against worst case - already sorted, 2) Basis for math model, but can be validated with experiments.
 //39% more compares than mergesort, but faster than mergesort because of less data movement(on large datasets).
+
+*/

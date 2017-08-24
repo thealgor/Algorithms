@@ -1,3 +1,5 @@
+
+/*
 public class UniqueCharacters{
     
     public static void hasUniqueCharacters(String str){
@@ -21,3 +23,5 @@ public class UniqueCharacters{
 
 	}
 }
+
+*/

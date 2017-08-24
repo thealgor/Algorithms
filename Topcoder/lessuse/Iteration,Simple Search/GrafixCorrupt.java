@@ -6,7 +6,7 @@ import java.text.*;
 import java.math.*;
 import java.awt.geom.*;
 
-public class grafixCorrupt
+public class GrafixCorrupt
 {
 	public int selectWord(String[] dictionary, String candidate)
 	{

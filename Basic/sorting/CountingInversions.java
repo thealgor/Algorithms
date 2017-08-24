@@ -1,3 +1,5 @@
+/*
+
 public class CountingInversions{
 
    public static void count(Comparable[] arr, Comparable[] aux, int lo, int hi){
@@ -28,4 +30,5 @@ public class CountingInversions{
 
 }
 
+*/
 

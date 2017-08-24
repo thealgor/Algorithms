@@ -6,7 +6,7 @@
 
  */
 
-
+/*
 
 public class Arrays{
    
@@ -57,11 +57,11 @@ public class Arrays{
      for(int k=lo;k<=hi;k++){
          if(i>mid) aux[k]=arr[j++];
          else if(j>hi) aux[k]=arr[i++];
-         else if(aux[j]<aux[i]) aux[k]=arr[j++];
+         else if(aux[j].compareTo(aux[i])>0) aux[k]=arr[j++];
          else arr[k]=aux[i++];
 	} 
 
   }
-
-
 }
+
+*/

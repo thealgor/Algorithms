@@ -3,12 +3,14 @@
 //one thing to realize is, using a set here is a very bad option. I was worried about recomputing the points for each of the elements, it is just O(1), only eight elements. so, recomputing is ok all the time
 //I got outofspace exception for this problem and also I missed a condition too.
 //for matrix neighbour problem always use dx and dy approach as shown below.
+
+/*
 import java.util.*;
 import java.util.regex.*;
 import java.text.*;
 import java.math.*;
 import java.awt.geom.*;
-
+/*
 public class BombSweeper
 {
 	public double winPercentage(String[] board)
@@ -131,3 +133,5 @@ public class BombSweeper
 }
 
 //Powered by [KawigiEdit] 2.0!
+
+*/

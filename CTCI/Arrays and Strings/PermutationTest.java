@@ -1,4 +1,4 @@
-class Permutation{
+class PermutationTest {
 
     public static boolean isPermutation(String a, String b){
         if(a.length()!=b.length())
@@ -27,4 +27,4 @@ class Permutation{
         System.out.println(isPermutation(a,b));
     }
 
-}}
+}

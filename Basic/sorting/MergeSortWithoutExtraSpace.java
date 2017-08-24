@@ -1,3 +1,5 @@
+/*
+
 public class Arrays{
 
 	public void sort(Comparable[] arr, int lo, int hi){
@@ -24,3 +26,5 @@ public class Arrays{
 		}
 	}
 }
+
+*/

@@ -2,6 +2,8 @@
 //The assumption made is that the max value in a given set of “n” items is “k”, (where k = O(n)) then the sort runs in linear time.
 //stable sort
 
+
+/*
 public class CountingSort{
     //max or radix
 	public static void sort(Comparable[] arr,int max){
@@ -21,3 +23,4 @@ public class CountingSort{
       	arr[i]=aux[i];
 	}
 }
+*/

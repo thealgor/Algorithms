@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e14ed344-e078-4158-b299-bf46d288dc06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basic/LinkedList/Test.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic/Arrays/CellRemoval1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Basic/Arrays/GuessCard.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProjectEuler/1-10 Problems/Fibonacci.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProjectEuler/1-10 Problems/Multiples3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ProjectEuler/1-10 Problems/lib/InputReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Topcoder/moduse/Sorting/OmahaLaw.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Topcoder/reuse/Graphs/CellRemoval1.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CTCI/Arrays and Strings/Permutation.java" afterPath="$PROJECT_DIR$/CTCI/Arrays and Strings/PermutationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic.md" afterPath="$PROJECT_DIR$/Basic.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/sorting/BottomUpMergeSort.java" afterPath="$PROJECT_DIR$/Basic/sorting/BottomUpMergeSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/sorting/CountingInversions.java" afterPath="$PROJECT_DIR$/Basic/sorting/CountingInversions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/sorting/CoutingSort.java" afterPath="$PROJECT_DIR$/Basic/sorting/CoutingSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/sorting/LSDRadix.java" afterPath="$PROJECT_DIR$/Basic/sorting/LSDRadix.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/sorting/MergeSort.java" afterPath="$PROJECT_DIR$/Basic/sorting/MergeSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/sorting/MergeSortWithoutExtraSpace.java" afterPath="$PROJECT_DIR$/Basic/sorting/MergeSortWithoutExtraSpace.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/sorting/QuickSortWithoutExtraSpace.java" afterPath="$PROJECT_DIR$/Basic/sorting/QuickSortWithoutExtraSpace.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basic/sorting/ThreeWayStringSort.java" afterPath="$PROJECT_DIR$/Basic/sorting/ThreeWayStringSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CTCI/Arrays and Strings/FirstNonRepeatedChar.java" afterPath="$PROJECT_DIR$/CTCI/Arrays and Strings/FirstNonRepeatedChar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CTCI/Arrays and Strings/PrintSpirally.java" afterPath="$PROJECT_DIR$/CTCI/Arrays and Strings/PrintSpirally.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CTCI/Arrays and Strings/RemoveCharsInStringInPlace.java" afterPath="$PROJECT_DIR$/CTCI/Arrays and Strings/RemoveCharsInStringInPlace.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CTCI/Arrays and Strings/ReverseStringInPlace.java" afterPath="$PROJECT_DIR$/CTCI/Arrays and Strings/ReverseStringInPlace.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CTCI/Arrays and Strings/UniqueCharacters.java" afterPath="$PROJECT_DIR$/CTCI/Arrays and Strings/UniqueCharacters.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hackerrank/priyankagift.java" afterPath="$PROJECT_DIR$/Hackerrank/priyankagift.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README_Relatvie.md" afterPath="$PROJECT_DIR$/README_Relatvie.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/lessuse/Iteration,Simple Search/GrafixCorrupt.java" afterPath="$PROJECT_DIR$/Topcoder/lessuse/Iteration,Simple Search/GrafixCorrupt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/moduse/Graphs/NQueensIteration.java" afterPath="$PROJECT_DIR$/Topcoder/moduse/Graphs/NQueensIteration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/moduse/Iteration,simple search/DNAString.java" afterPath="$PROJECT_DIR$/Topcoder/moduse/Iteration,simple search/DNAString.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/moduse/Iteration,simple search/Mailbox.java" afterPath="$PROJECT_DIR$/Topcoder/moduse/Iteration,simple search/Mailbox.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/moduse/Iteration,simple search/PiecewiseLinearFunctions.java" afterPath="$PROJECT_DIR$/Topcoder/moduse/Iteration,simple search/PiecewiseLinearFunctions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/moduse/Iteration,simple search/TheNewHouseDivTwo.java" afterPath="$PROJECT_DIR$/Topcoder/moduse/Iteration,simple search/TheNewHouseDivTwo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/moduse/Sorting/Aaagrams.java" afterPath="$PROJECT_DIR$/Topcoder/moduse/Sorting/Aaagrams.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/moduse/Sorting/BifidSortingMachine.java" afterPath="$PROJECT_DIR$/Topcoder/moduse/Sorting/BifidSortingMachine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/moduse/Sorting/FoxAndMP3Easy.java" afterPath="$PROJECT_DIR$/Topcoder/moduse/Sorting/FoxAndMP3Easy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/moduse/Sorting/RegularSeason.java" afterPath="$PROJECT_DIR$/Topcoder/moduse/Sorting/RegularSeason.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/BombSweeper.java" afterPath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/BombSweeper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/CellRemoval.java" afterPath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/CellRemoval.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/CountPairs.java" afterPath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/CountPairs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/CrazyBot.java" afterPath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/CrazyBot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/MinSquareEasy.java" afterPath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/MinSquareEasy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/YearProgressBar.java" afterPath="$PROJECT_DIR$/Topcoder/reuse/Simple Search,Iteration/YearProgressBar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,8 +20,8 @@
       <file leaf-file-name="Subsets.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Basic/Arrays/Subsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            <state relative-caret-position="195">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -664,10 +624,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1062,8 +1022,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Basic/Arrays/Subsets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        <state relative-caret-position="195">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding />
         </state>
       </provider>

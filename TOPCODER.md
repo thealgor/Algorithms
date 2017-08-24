@@ -9,7 +9,7 @@
 ##Set1:
 
 ###General
-- [LuckyString](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple search/TheLuckyString.java) _Permutations_
+- [LuckyString](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple%20search/TheLuckyString.java) _Permutations_
 
 
 
@@ -35,18 +35,18 @@
 
 
 ### Simple, search and iteration:
-- [CrazyBot](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/CrazyBot.java) _DFS_ _AdjacencyMatrix_
-- [BombSweeper](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/BombSweeper.java) _Matrix_ _DistanceNeighbours_
-- [Cell Removal](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/CellRemoval.java) _DFS_ _AdjacencyMatrix_
-- [Isomorphic Words](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search%2CIteration/CountPairs.java)
-- [Colourful Coins Easy](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/ColorfulCoinsEasy.java)
-- [Year Progress Bar](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/YearProgressBar.java)
-- [RockPaperScissors](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple search/RockPaperScissorsMagicEasy.java) _ComputenCr_ _Pyramid_
-- [LongWordsDiv2](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/LongWordsDiv2.java) _Strings_
-- [BaseMystery](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/BaseMystery.java) _BigInteger_ _StringTokenizer_ _BaseConversions_
-- [PartySeats](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/PartySeats.java) 
-- [ThreePhotos](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple search/ThreePhotos.java)
-- [Subsets](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple Search,Iteration/SubsetsCodeForces.java)
+- [CrazyBot](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple%20Search,Iteration/CrazyBot.java) _DFS_ _AdjacencyMatrix_
+- [BombSweeper](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple%20Search,Iteration/BombSweeper.java) _Matrix_ _DistanceNeighbours_
+- [Cell Removal](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple%20Search,Iteration/CellRemoval.java) _DFS_ _AdjacencyMatrix_
+- [Isomorphic Words](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple%20Search%2CIteration/CountPairs.java)
+- [Colourful Coins Easy](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple%20Search,Iteration/ColorfulCoinsEasy.java)
+- [Year Progress Bar](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple%20Search,Iteration/YearProgressBar.java)
+- [RockPaperScissors](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple%20search/RockPaperScissorsMagicEasy.java) _ComputenCr_ _Pyramid_
+- [LongWordsDiv2](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple%20Search,Iteration/LongWordsDiv2.java) _Strings_
+- [BaseMystery](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple%20Search,Iteration/BaseMystery.java) _BigInteger_ _StringTokenizer_ _BaseConversions_
+- [PartySeats](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple%20Search,Iteration/PartySeats.java) 
+- [ThreePhotos](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple%20search/ThreePhotos.java)
+- [Subsets](https://github.com/thealgor/Algorithms/blob/master/Topcoder/reuse/Simple%20Search,Iteration/SubsetsCodeForces.java)
 
 
 ###Sorting:
@@ -66,11 +66,11 @@
 ##Set2
 
 ###Simple,Search and Iteration
-- [Mailbox](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple search/Mailbox.java)
-- [PiecewiseLinearFunctionDiv2](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple search/PiecewiseLinearFunctions.java)
-- [TheNewHouseDiv2](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple search/TheNewHouseDivTwo.java)
-- [DNAString](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple search/DNAString.java)
-- [YetAnotherIncredibleMachine1](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple search/YetAnotherIncredibleMachine1.java)
+- [Mailbox](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple%20search/Mailbox.java)
+- [PiecewiseLinearFunctionDiv2](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple%20search/PiecewiseLinearFunctions.java)
+- [TheNewHouseDiv2](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple%20search/TheNewHouseDivTwo.java)
+- [DNAString](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple%20search/DNAString.java)
+- [YetAnotherIncredibleMachine1](https://github.com/thealgor/Algorithms/blob/master/Topcoder/moduse/Iteration,simple%20search/YetAnotherIncredibleMachine1.java)
 
 
 ###Sorting:

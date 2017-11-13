@@ -4,6 +4,55 @@
 */
 
 import java.util.*;
+import java.math.*;
+import static java.lang.Math.*;
+
+public class ClientsList {
+	
+	public String[] dataCleanup(String[] names) {
+
+		String[] cnames = new String[names.length];
+
+		int i=0;
+		for(String name: names){
+			if(name.contains(",")){
+				String[] strs = name.split(", ");
+				cnames[i] = strs[1] +" "+ strs[0];
+			}
+			else{
+				cnames[i] = name;
+			}
+			i++;
+		}
+
+		class MyComparator implements Comparator{
+			public int compare(Object o1, Object o2){
+				String s1 = (String) o1;
+				String s2= (String) o2;
+				String[] name1 = s1.split(" ");
+				String[] name2 = s2.split(" ");
+				int cmp = name1[1].compareTo(name2[1]);
+				if(cmp==0){
+					return name1[0].compareTo(name2[0]);
+				}
+				else
+					return cmp;
+			}
+		}
+
+		Arrays.sort(cnames,new MyComparator());
+
+		return cnames;
+	}
+}
+
+
+
+
+
+/*
+
+import java.util.*;
 import java.util.regex.*;
 import java.text.*;
 import java.math.*;
@@ -53,4 +102,6 @@ public class ClientsList
 	
 	
 }
+
+*/
 //Powered by [KawigiEdit] 2.0!

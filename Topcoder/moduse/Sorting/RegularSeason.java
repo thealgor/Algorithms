@@ -4,6 +4,82 @@
 */
 
 import java.util.*;
+import java.math.*;
+import static java.lang.Math.*;
+
+public class RegularSeason {
+
+	public class Team{
+		String teamName="";
+		Integer winprobability=0;
+
+		public Team(String teamName, Integer winprobability){
+			this.teamName=teamName;
+			this.winprobability=winprobability;
+		}
+	}
+
+	class MyComparator implements Comparator{
+		public int compare(Object o1, Object o2){
+			Team t1 =(Team)o1;
+			Team t2 = (Team) o2;
+			int cmp = t1.winprobability.compareTo(t2.winprobability);
+			if(cmp==0)
+				return (t1.teamName.compareTo(t2.teamName));
+			return -cmp;
+		}
+	}
+
+
+	public String[] finalStandings(String[] teams, int rounds) {
+       List<Team> list = new ArrayList<Team>();
+       int rows=teams.length; int cols =teams.length;
+	   int[][] probs = new int[rows][cols];
+
+       for(int i=0;i<rows;i++){
+       	String[] items = teams[i].split(" ");
+        for(int j=0;j<cols;j++){
+           	probs[i][j]=Integer.parseInt(items[j+1]);
+		}
+	   }
+
+       for(int i=0;i<rows;i++){
+		   String[] items = teams[i].split(" ");
+		   String teamName = items[0];
+		   double prob = 0;
+		   for(int j=0;j<cols;j++){
+		   	if(i==j) continue;
+		   	prob += probs[i][j]*rounds;
+		   	prob += (100-probs[j][i])*rounds;
+		   }
+		   prob = Math.round(prob/100);
+		   Team t = new Team(teamName,(int)prob);
+		   list.add(t);
+	   }
+
+       Collections.sort(list, new MyComparator());
+       String[] results = new String[list.size()];
+       for(int i=0;i<results.length;i++){
+       	results[i]= list.get(i).teamName +" "+ list.get(i).winprobability;
+	   }
+
+		return results;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+import java.util.*;
 import java.util.regex.*;
 import java.text.*;
 import java.math.*;
@@ -95,4 +171,6 @@ class RegularSeason
 	
 	
 }
+
+*/
 //Powered by [KawigiEdit] 2.0!
